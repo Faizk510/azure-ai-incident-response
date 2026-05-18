@@ -1,0 +1,1 @@
+Event-driven Azure incident response automation platform with AI-enriched alert analysis using Azure Monitor, Azure Functions, Log Analytics, Logic Apps, and Ollama.
