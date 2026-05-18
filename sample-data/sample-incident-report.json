@@ -1,0 +1,9 @@
+{
+  "TimeGenerated": "2026-05-18T12:00:00Z",
+  "AlertName": "High CPU Alert",
+  "Severity": "Sev3",
+  "AffectedResource": "sample-vm",
+  "IncidentSummary": "Incident Summary: Azure Monitor detected elevated CPU utilization on the affected virtual machine. The condition may indicate workload saturation or an unexpected process consuming compute resources.\n\nLikely Root Cause: The most likely cause is sustained CPU pressure from an application process, background job, or increased workload activity.\n\nPotential Impact: If unresolved, the resource may experience degraded performance, delayed application responses, or service instability.",
+  "RecommendedAction": "Recommended Actions: 1. Review CPU metrics and process-level activity on the affected resource. 2. Validate whether the workload increase is expected or abnormal. 3. Scale the resource or investigate application behavior if CPU pressure persists.",
+  "Status": "Fired"
+}
