@@ -1,0 +1,7 @@
+- DCR/DCE ingestion authorization issues
+- 403 ingestion troubleshooting
+- malformed AI JSON handling
+- Ollama timeout tuning
+- Azure Monitor payload inconsistencies
+- duplicate alert suppression behavior
+- managed identity token scope troubleshooting
